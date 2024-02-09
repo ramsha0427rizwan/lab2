@@ -8,7 +8,7 @@ main {
 
   h1 {
     font-family: system-ui;
-    font-size: x-large;
+    font-size: 28px;
     font-weight: bold;
     color: #bf00ff;
     text-align: center;
@@ -20,6 +20,17 @@ main {
   body {
     background-color: #e6ccff;
     text-align: center;
+  }
+
+  button {
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    font-size: 18px;
+    box-sizing: border-box;
   }
 
   button {
