@@ -21,3 +21,9 @@ main {
     background-color: #e6ccff;
     text-align: center;
   }
+
+  button {
+    background-color: #bf00ff;
+    color: white;
+    cursor: pointer;
+  }
